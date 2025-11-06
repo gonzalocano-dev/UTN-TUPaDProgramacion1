@@ -8,7 +8,7 @@ Tecnicatura Universitaria en Programación
 
 Nombre: Cano, Gonzalo
 
-Comisión: 2 
+Comisión: 3 
 
 📂 Descripción del Repositorio
 
